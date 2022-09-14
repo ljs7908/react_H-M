@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Web 주소
+
+https://devjisuhnm.netlify.app
+
+## json data
+
+https://my-json-server.typicode.com/ljs7908/react_H-M/products?q=
+
 ## Available Scripts
 
 In the project directory, you can run:
