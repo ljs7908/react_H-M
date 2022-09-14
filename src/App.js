@@ -20,9 +20,7 @@ import PrivateRoute from './route/PrivateRoute'
 //상품을 검색할 수 있다.
 function App() {
     const [authenticate, setAuthenticate] = useState(false)
-    useEffect(() => {
-        console.log('DDDD : ', authenticate)
-    }, [authenticate])
+    useEffect(() => {}, [authenticate])
 
     return (
         <div>
